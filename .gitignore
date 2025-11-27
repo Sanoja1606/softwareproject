@@ -40,3 +40,5 @@ venv/
 
 # Secrets file (optional, if any other files storing secrets)
 secrets.env
+
+.venv/
