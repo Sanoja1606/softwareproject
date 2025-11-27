@@ -35,7 +35,8 @@ jq==1.10.0
 jsonpatch==1.33
 jsonpointer==3.0.0
 langchain==1.0.8
-langchain-core==1.1.0
+langchain-core==1.0.0
+langchain-community==0.4.1
 langchain-google-genai==3.1.0
 langgraph==1.0.3
 langgraph-checkpoint==3.0.1
@@ -104,4 +105,3 @@ uvicorn==0.25.0
 watchfiles==1.1.1
 xxhash==3.6.0
 zstandard==0.25.0
-langchain-community
